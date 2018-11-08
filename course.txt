@@ -1,0 +1,26 @@
+OPEN	907	Foundations of Programming I	CS	1014	001	4	M	 	W	 	 	1:00 p.m. - 2:50 p.m.	01/14-05/10	BALDOR 147	Fulenwider, Gail
+OPEN	907	Foundations of Programming I	CS	1014	001	4 	 	 	 		F	1:00 p.m. - 1:50 p.m.	01/14-05/10	BALDOR 147	 
+OPEN	908	Foundations of Programming I	CS	1014	901	4	M	 	W	 	 	5:25 p.m. - 7:40 p.m.	01/14-05/10	BALDOR 147	Fulenwider, Gail
+CLOSED	910	Foundations of Programming II	CS	1024	001	4	M	 	W	 	 	11:00 a.m. - 12:50 p.m.	01/14-05/10	BALDOR 143	Hightower, John
+CLOSED	910	Foundations of Programming II	CS	1024	001	4 	 	 	 		F	11:00 a.m. - 11:50 a.m.	01/14-05/10	BALDOR 143	 
+OPEN	909	Foundations of Programming II	CS	1024	901	4	 	T	 	R	 	5:25 p.m. - 7:40 p.m.	01/14-05/10	BALDOR 147	Cuevas, Israel
+OPEN	924	Fndtns of Operating Systems I	CS	1033	001	3	 	T	 	R	 	2:00 p.m. - 3:15 p.m.	01/14-05/10	BALDOR 147	Henehan, Brian
+OPEN	928	Fndtns of Operating Systems I	CS	1033	901	3	 	T	 	R	 	5:25 p.m. - 6:40 p.m.	01/14-05/10	BALDOR 144	Smith, Kevin
+OPEN	931	Foundations of Networking	CS	1044	901	4	 	T	 	R	 	6:50 p.m. - 8:40 p.m.	01/14-05/10	BALDOR 144	Smith, Kevin
+OPEN	913	Fndtns of Operating Systems II	CS	1063	901	3	M	 	W	 	 	5:25 p.m. - 6:40 p.m.	01/14-05/10	BALDOR 143	Andreason, Erik
+OPEN	916	Data Structures	CS	2003	901	3	 	T	 	R	 	4:00 p.m. - 5:15 p.m.	01/14-05/10	BALDOR 143	Mackey, Andrew
+OPEN	1463	Database Systems I	CS	2013	901	3	M	 	W	 	 	6:50 p.m. - 8:05 p.m.	01/14-05/10	BALDOR 144	Staff
+OPEN	929	IT Systems Management	CS	2022	901	2	M	 	W	 	 	5:25 p.m. - 6:15 p.m.	01/14-05/10	BALDOR 144	Staff
+OPEN	914	Web Systems	CS	2033	901	3	M	 	W	 	 	6:50 p.m. - 8:05 p.m.	01/14-05/10	BALDOR 143	Andreason, Erik
+CLOSED	917	Database Systems II	CS	2043	001	3	 	T	 	R	 	12:30 p.m. - 1:45 p.m.	01/14-05/10	BALDOR 144	Bright, Brittany
+CLOSED	912	Human Computer Interaction	CS	3013	901	3	M	 	W	 	 	4:00 p.m. - 5:15 p.m.	01/14-05/10	BALDOR 143	Renwick, Janet
+OPEN	922	Research Methods in Info Techn	CS	3023	001	3	 	T	 	R	 	2:00 p.m. - 3:15 p.m.	01/14-05/10	BALDOR 143	Bright, Brittany
+OPEN	919	Computer Architecture	CS	3033	001	3	 	T	 	R	 	11:00 a.m. - 12:15 p.m.	01/14-05/10	BALDOR 147	Hightower, John
+OPEN	920	Artificial Intelligence	CS	3113	001	3	 	T	 	R	 	12:30 p.m. - 1:45 p.m.	01/14-05/10	BALDOR 147	McLaughlan, Brian
+OPEN	915	Game Design and Development	CS	3143	001	3	 	T	 	R	 	9:30 a.m. - 10:45 a.m.	01/14-05/10	BALDOR 147	McLaughlan, Brian
+OPEN	925	Systems Analysis and Design	CS	4003	901	3	 	T	 	R	 	4:00 p.m. - 5:15 p.m.	01/14-05/10	BALDOR 144	Fulenwider, Gail
+OPEN	926	Senior Capstone	CS	4023	901	3	 	T	 	R	 	4:00 p.m. - 5:15 p.m.	01/14-05/10	BALDOR 147	Henehan, Brian
+OPEN	911	Identity Management	CS	4213	001	3	M	 	W	 	 	2:00 p.m. - 3:15 p.m.	01/14-05/10	BALDOR 145B	Henehan, Brian
+OPEN	927	Machine Learning	CS	4333	901	3	 	T	 	R	 	5:25 p.m. - 6:40 p.m.	01/14-05/10	BALDOR 143	Mackey, Andrew
+OPEN	918	Network Security	CS	4503	001	3	 	T	 	R	 	2:00 p.m. - 3:15 p.m.	01/14-05/10	BALDOR 145B	Mackey, Andrew
+OPEN	930	Info Tech Sp Top Blockchain	CS	4903	901	3	 	T	 	R	 	6:50 p.m. - 8:05 p.m.	01/14-05/10	BALDOR 143	Mackey, Andrew
