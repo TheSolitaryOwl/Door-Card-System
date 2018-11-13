@@ -1,7 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
-<%
-	String error = (String) request.getAttribute("error");	
-%>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -75,7 +71,7 @@
 		
 		<!--Start of Navbar-->
         <nav class="navbar">
-    		<a class="navbar-brand" href="index.jsp"><img src="icon.jpg" alt="site-logo"></a>
+    		<a class="navbar-brand" href="index.html"><img src="icon.jpg" alt="site-logo"></a>
 		</nav>
 		<!--End of Navbar-->
 			
@@ -84,7 +80,7 @@
 				<h1 class="display-2 lead"><strong>UAFS Door Tag</strong></h1>
 				<h2 class="display-5 lead"><strong>Select A Term</strong></h2>
 				
-				<form action="doorCard.jsp" method="post">
+				<form action="doorCard.html" method="post">
 					<div class="col">	
 						<select class="lead" name="type">
 							<option value="0" selected>Term</option>
@@ -94,10 +90,6 @@
 					</div>	
 
 					<h2 class="display-5 lead text-center">
-				<% 
-					if(error != null)
-						out.println("<p class='lead' style='color: #ff4444'><strong>" + error + "</strong></p>");
-				%>
 			</h2>
 								
 					<div class="col pt-1">
